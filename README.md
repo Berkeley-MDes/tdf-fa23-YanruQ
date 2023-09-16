@@ -5,6 +5,8 @@
 [WEEK2_2023/09/07](weekly-reports/2023_09_07.md)  
 [WEEK3_2023/09/14](weekly-reports/2023_09_14.md)  
 ### PROJECT 2 ###  
+[WEEK4_2023/09/21](weekly-reports/2023_09_21.md)  
+
 
 > [Weekly Report Submisison link](https://tinyurl.com/DESINV202-PersonalReflections)
 
