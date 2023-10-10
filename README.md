@@ -8,7 +8,8 @@
 [WEEK4_2023/09/21](weekly-reports/2023_09_21.md)  
 [WEEK5_2023/09/28](weekly-reports/2023_09_28.md)  
 [WEEK6_2023/10/05](weekly-reports/2023_10_05.md)  
-[WEEK6_2023/10/12](weekly-reports/2023_10_12.md)  
+[WEEK7_2023/10/12](weekly-reports/2023_10_12.md)  
+[WEEK8_2023/10/19](weekly-reports/2023_10_19.md) 
 > [Weekly Report Submisison link](https://tinyurl.com/DESINV202-PersonalReflections)
 
 
