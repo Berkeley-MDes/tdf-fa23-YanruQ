@@ -10,6 +10,9 @@
 [WEEK6_2023/10/05](weekly-reports/2023_10_05.md)  
 [WEEK7_2023/10/12](weekly-reports/2023_10_12.md)  
 [WEEK8_2023/10/19](weekly-reports/2023_10_19.md) 
+### PROJECT 3 ###  
+[WEEK9_2023/10/26](weekly-reports/2023_10_26.md)  
+[WEEK10_2023/11/02](weekly-reports/2023_11_02.md) 
 > [Weekly Report Submisison link](https://tinyurl.com/DESINV202-PersonalReflections)
 
 
